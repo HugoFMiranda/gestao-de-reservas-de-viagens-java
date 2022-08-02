@@ -1,0 +1,22 @@
+-classpath
+'C:/Users/HugoM/.m2/repository/com/mycompany/Utilitarios/1.0-SNAPSHOT/Utilitarios-1.0-SNAPSHOT.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/HugoM/Desktop/IT3/TAM_It3/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/HugoM/Desktop/IT3/TAM_It3/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'TAM_It3 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'TAM_It3 1.0-SNAPSHOT API'
